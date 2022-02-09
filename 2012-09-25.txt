@@ -1,0 +1,17 @@
+help > examples > jitter > overviews
+
+- jit.gl.mesh - カメラ画像の明るさに応じてzPositionをセットできる
+- jit.gl.gridshape
+- jit.gl.material - 光の表現をセットできる、テクスチャー
+- jit.bfg 3dでよく使うテクスチャーを生成できる
+- jit.gl.model - 外部ソフトで作った3dモデルを開ける。アニメーションも 
+- jit.gl.plato - 平面。多面体を作れる\
+- jit.gl.isosurf 
+- jit.gl.sketch - 点を自分で描画する
+- jit.gl.text3d - 3d文字列を生成できる
+- jit.gl.videoplane - openglで映像を扱うときはこっちのほうがやりやすい。グラボのアクセラレーションが効くために速度が速い
+-
+
+https://cycling74.com/tutorials/jitter-recipes-book-four
+- Recipe 45: Humanoid
+- Recipe 48: PartyLights
